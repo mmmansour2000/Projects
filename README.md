@@ -1,2 +1,1 @@
-# Projects
-Completed projects from coursework and personal projects,
+# Temporal Effect of Unemployment Rate Change on Recessions
